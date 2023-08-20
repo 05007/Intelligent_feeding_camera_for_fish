@@ -1,0 +1,14 @@
+prefix=/newdisk/workspace/ffmpeg-4.2.5/install
+exec_prefix=${prefix}
+libdir=/newdisk/workspace/ffmpeg-4.2.5/install/lib
+includedir=/newdisk/workspace/ffmpeg-4.2.5/install/include
+
+Name: libavutil
+Description: FFmpeg utility library
+Version: 56.31.100
+Requires: 
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavutil 
+Libs.private: -pthread -lm
+Cflags: -I${includedir}

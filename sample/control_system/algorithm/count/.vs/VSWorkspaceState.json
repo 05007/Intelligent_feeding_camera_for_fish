@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\model",
+    "\\output",
+    "\\output\\count",
+    "\\output\\count\\bin_hex",
+    "\\postProcess",
+    "\\postProcess\\common",
+    "\\postProcess\\common\\src",
+    "\\src",
+    "\\src\\include"
+  ],
+  "SelectedNode": "\\src\\common.cpp",
+  "PreviewInSolutionExplorer": false
+}
