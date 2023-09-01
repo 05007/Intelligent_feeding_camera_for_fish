@@ -8,16 +8,13 @@
  日志 : 初版v1.0.0 2023/3/10 郭辰磊创建
  ***************************************************************/
 #include "std_include.hpp"
-#include "json/json.h"  //jsoncpp
-#include "sc_npu.h"     //npu
-#include "opencv2/opencv.hpp"
 #include "net_link.hpp"
 #include "io_control.hpp"
 #include "run_solo.hpp"
 #include "RS485.hpp"
-#include "libswscale/swscale.h"
-#include "libavcodec/avcodec.h"
-#include "libavformat/avformat.h"
+// #include "libswscale/swscale.h"
+// #include "libavcodec/avcodec.h"
+// #include "libavformat/avformat.h"
 // #include "sc_type.h"
 // #include "sample_comm_svp.h"
 // #include "sample_comm_npu.h4
